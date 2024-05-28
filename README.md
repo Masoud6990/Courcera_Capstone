@@ -1,2 +1,3 @@
 # Courcera_Capstone
-This is a repository created for uploading the notebooks for the IBM data science professional certificate_ Capstone project.
+In this project, we want to predict if the Falcon 9 first stage will land successfully.
+1-First, we collect and make sure the data is in the correct format from an API.
